@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "136441619583",
+    "firebase_url": "https://projecto-demo.firebaseio.com",
+    "project_id": "projecto-demo",
+    "storage_bucket": "projecto-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136441619583:android:b2a4fcba1312274a",
+        "android_client_info": {
+          "package_name": "com.velasquez.ronald.firebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136441619583-ih2o4u8i4fadl18omkb1gqre79h5ot23.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATjovkkNWbGdWwApNnlCgx63z3QPiwns0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
